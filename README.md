@@ -67,7 +67,8 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 ### 📈 My GitHub Stats:
 <div>
-  <img align="left" width="47%" src="https://streak-stats.demolab.com?user=Akhilesh10gupta&theme=onedark" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Akhilesh10gupta&show_icons=true&hide_title=true&count_private=true&theme=onedark" />
+
 </div>
 
 ---
