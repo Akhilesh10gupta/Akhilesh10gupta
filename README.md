@@ -72,7 +72,7 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
   </a>
 </div>
 
-<br><br><br><br> <!-- Add spacing to prevent overlap -->
+<br><br><br><br> <br><br><br><br> <!-- Add spacing to prevent overlap -->
 
 <h3>📈 My LeetCode Stats:-</h3>
 <div>
