@@ -70,7 +70,10 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
   <img align="left" width="47%" src="https://streak-stats.demolab.com?user=Akhilesh10gupta&theme=onedark" />
 </div>
 
+<br><br><br><br> <!-- To avoid overlapping of images -->
+
 <h3>📈 My LeetCode Stats:-</h3>
 <div>
-  <img align="left" src="https://leetcard.jacoblin.cool/Akhilesh_gupta60?theme=dark" />
+  <img align="left" width="47%" src="https://leetcard.jacoblin.cool/Akhilesh_gupta60?theme=dark" />
 </div>
+
