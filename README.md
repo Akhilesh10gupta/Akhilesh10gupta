@@ -7,7 +7,7 @@
   
   Previously, I worked on projects such as **Hotel Raj Palace**, **CK One Stop Solutions** and **Tipsytown Restaurant**, where I developed seamless booking systems, billing management, and user-friendly interfaces. 
 
-  <h4> Skills: C, JavaScript, PHP, MySQL, Cybersecurity, Adobe Photoshop, CorelDRAW, Tally ERP, Canvas API. </h4>
+  <h4> Skills: C, JavaScript, PHP, MySQL, Cybersecurity, Adobe Photoshop, CorelDRAW, Tally ERP, Canva. </h4>
   <h4> WebDev Skills: HTML, CSS, Tailwind CSS, React.js, Bootstrap, PHPMyAdmin, Full-Stack Development. </h4>
   <h4> Interests: Open Source Contributions, Cybersecurity, and Problem Solving. </h4>
 </p>
@@ -56,7 +56,9 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
   <img src="https://img.shields.io/badge/Bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe-Photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/CorelDRAW-%23000000.svg?style=for-the-badge&logo=CorelDraw&logoColor=white" />
-  <img src="https://img.shields.io/badge/CanvasAPI-%2300599C.svg?style=for-the-badge&logo=canvas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+
+
 </div>
 
 ---
