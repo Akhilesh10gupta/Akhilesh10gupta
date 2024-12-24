@@ -74,5 +74,5 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 ### 📈 My LeetCode Stats:
 <div>
-   <img align="left" src="https://leetcard.jacoblin.cool/u/Akhilesh_gupta60" />
+   <img align="left" src="https://leetcard.jacoblin.cool/Akhilesh_gupta60?theme=dark&font=Consolas&ext=contest"  />
 </div>
