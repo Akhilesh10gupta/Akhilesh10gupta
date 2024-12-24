@@ -5,9 +5,7 @@
 <p>
   I'm **Akhilesh Gupta**, a final-year student at **Dr. Ram Manohar Lohia Awadh University, Faizabad.**
   
-  I am currently associated with **CK One Stop Solutions**, where we provide a one-stop platform for Tour & Travel, Academic assistance, and Job support using advanced web solutions.
-  
-  Previously, I worked on projects such as **Hotel Raj Palace** and **Tipsytown Restaurant**, where I developed seamless booking systems, billing management, and user-friendly interfaces. 
+  Previously, I worked on projects such as **Hotel Raj Palace**, **CK One Stop Solutions** and **Tipsytown Restaurant**, where I developed seamless booking systems, billing management, and user-friendly interfaces. 
 
   <h4> Skills: C, JavaScript, PHP, MySQL, Cybersecurity, Adobe Photoshop, CorelDRAW, Tally ERP. </h4>
   <h4> WebDev Skills: HTML, CSS, Tailwind CSS, React.js, Bootstrap, PHPMyAdmin, Full-Stack Development. </h4>
