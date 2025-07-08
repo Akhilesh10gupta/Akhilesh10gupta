@@ -37,7 +37,7 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 ### Connect with me:
 <p align="left">
-<a href="https://x.com/_anuj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/akhilesh-gupta-826067228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akhilesh Gupta" height="30" width="40" /></a>
 </p>
 
