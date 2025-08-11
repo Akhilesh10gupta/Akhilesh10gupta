@@ -31,6 +31,13 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
       alt="Akhilesh's GitHub"
     >
   </a>
+  <a href="https://portfolio-akhilesh-gupta.vercel.app/" target="_blank">
+    <img
+      height="25"
+      src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Akhilesh's Portfolio"
+    >
+  </a>
 </div>
 
 ---
