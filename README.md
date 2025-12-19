@@ -1,5 +1,5 @@
 <h1 align="center" style="background: linear-gradient(45deg, #ff8a00, #e52e71, #ff8a00); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm  Alok Maurya
+    Hi 👋, I'm  Akhilesh Gupta
 </h1>
 
 <img align="right" img height="25" src="https://komarev.com/ghpvc/?username=Akhilesh10gupta&style=for-the-badge" />
