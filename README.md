@@ -1,4 +1,6 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+<h1 align="center" style="background: linear-gradient(45deg, #ff8a00, #e52e71, #ff8a00); -webkit-background-clip: text; color: transparent;">
+    Hi 👋, I'm  Alok Maurya
+</h1>
 
 <img align="right" img height="25" src="https://komarev.com/ghpvc/?username=Akhilesh10gupta&style=for-the-badge" />
 
