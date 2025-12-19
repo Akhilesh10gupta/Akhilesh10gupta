@@ -87,30 +87,15 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 ---
 
-## ⚙️ My Projects
+## ⚙️ My Projects (Full-Stack)
 
-### 🚀 Full-Stack Projects
+**Extrabite** → [GitHub](https://github.com/Akhilesh10gupta/Extrabite.git) → [Live](https://extrabite.vercel.app/)
 
-#### 🥗 Extrabite – Food Donation Platform  
-🔗 **GitHub:** https://github.com/Akhilesh10gupta/Extrabite.git  
-🌐 **Live:** https://extrabite.vercel.app/
+**Sir Musiz** → [GitHub](https://github.com/Akhilesh10gupta/musiz_v2.git) → [Live](https://www.sirmusizstudios.com/)
 
----
+**Tipsy Town** → [GitHub](https://github.com/Akhilesh10gupta/Tipsytown.git) → [Live](https://tipsytown.in/)
 
-#### 🎵 Sir Musiz – Music Production Website  
-🔗 **GitHub:** https://github.com/Akhilesh10gupta/musiz_v2.git  
-🌐 **Live:** https://www.sirmusizstudios.com/
-
----
-
-#### 🍸 Tipsy Town – Restaurant & Bar Website  
-🔗 **GitHub:** https://github.com/Akhilesh10gupta/Tipsytown.git  
-🌐 **Live:** https://tipsytown.in/
-
----
-
-### 🔍 View All Projects
-👉 **GitHub Profile:** https://github.com/Akhilesh10gupta
+🔗 **View all projects:** https://github.com/Akhilesh10gupta
 
 ---
 
