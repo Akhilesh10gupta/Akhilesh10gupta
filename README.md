@@ -3,7 +3,7 @@
 <img align="right" img height="25" src="https://komarev.com/ghpvc/?username=Akhilesh10gupta&style=for-the-badge" />
 
 <p>
-  I'm **Akhilesh Gupta**, a final-year student at **Dr. Ram Manohar Lohia Awadh University, Faizabad.**
+  I'm a B-Tech CSE graduate from DR. RMLAU Ayodhya, currently working as a full stack software engineer.
   
   Previously, I worked on projects such as **Hotel Raj Palace**, **CK One Stop Solutions** and **Tipsytown Restaurant**, where I developed seamless booking systems, billing management, and user-friendly interfaces. 
 
