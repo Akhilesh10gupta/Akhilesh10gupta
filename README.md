@@ -95,7 +95,8 @@ src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 
 **Tipsy Town** → [GitHub](https://github.com/Akhilesh10gupta/Tipsytown.git) → [Live](https://tipsytown.in/)
 
-🔗 **View all projects:** https://github.com/Akhilesh10gupta
+🔗 [![View All Projects](https://img.shields.io/badge/View%20All%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh10gupta)
+
 
 ---
 
