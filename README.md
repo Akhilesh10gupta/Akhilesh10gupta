@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/AKHILESH_GUPTA-LEVEL_99_ENGINEER-FFD700?style=for-the-badge&logo=github&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/AKHILESH_GUPTA-PLAYER_READY-00FF00?style=for-the-badge&logo=ghost&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/LEVEL-99-FFD700?style=for-the-badge&logo=gaming&logoColor=black" height="35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;B-Tech+Graduate+from+RMLAU;Cybersecurity+Enthusiast;Solving+Bugs+in+Real-Time...;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Cybersecurity+Enthusiast;Building+Scalable+Solutions...;" />
 </p>
 
 <div align="center">
@@ -17,49 +18,41 @@
 
 ---
 
-### 🕹️ Player Statistics
+### 🕹️ Player Info
 
 > [!IMPORTANT]
 > **CLASS:** Full-Stack Developer  
 > **EXP:** B-Tech CSE Graduate  
-> **PROJECTS COMPLETED:** Hotel Raj Palace, CK One Stop, Tipsytown
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhilesh10gupta&show_icons=true&theme=dark&hide_border=false" alt="Stats" />
-</p>
+> **LOCATION:** Ayodhya, India
 
 ---
 
-### ⚔️ Tech Arsenal (Inventory)
-
-**Active Skills:**
-`C` `JavaScript` `PHP` `MySQL` `React.js` `Tailwind CSS`
-
-**Passive Skills:**
-`Cybersecurity` `Adobe Photoshop` `CorelDRAW` `Canva`
+### ⚔️ Tech Inventory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,php,mysql,html,css,tailwind,react,bootstrap,git,github,vscode,ps,canva&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,php,mysql,html,css,tailwind,react,bootstrap,git,github,vscode,ps,canva&theme=dark" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 Quests (Recent Projects)
 
-| Mission | Status | Links |
+| Mission Name | Difficulty | Status |
 | :--- | :--- | :--- |
-| **Extrabite** | 🏆 Completed | [Repo](https://github.com/Akhilesh10gupta/Extrabite.git) |
-| **Sir Musiz** | 🏆 Completed | [Repo](https://github.com/Akhilesh10gupta/musiz_v2.git) |
-| **Tipsy Town** | 🏆 Completed | [Repo](https://github.com/Akhilesh10gupta/Tipsytown.git) |
+| **Extrabite** | ⭐⭐⭐ | [🏆 View Repo](https://github.com/Akhilesh10gupta/Extrabite.git) |
+| **Sir Musiz** | ⭐⭐⭐ | [🏆 View Repo](https://github.com/Akhilesh10gupta/musiz_v2.git) |
+| **Tipsy Town** | ⭐⭐⭐ | [🏆 View Repo](https://github.com/Akhilesh10gupta/Tipsytown.git) |
 
 ---
 
-### 👾 Activity & Streaks
+### 👾 Activity Console
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akhilesh10gupta&theme=dark&hide_border=false" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhilesh10gupta&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Akhilesh_gupta60?theme=dark" width="450" />
+  <img src="https://raw.githubusercontent.com/Mayank-H/Mayank-H/master/assets/snake.svg" alt="Snake" />
 </p>
