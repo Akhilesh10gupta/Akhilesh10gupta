@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=distort&color=7303c0&height=200&section=header&text=AKHILESH%20GUPTA&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://img.shields.io/badge/AKHILESH_GUPTA-PLAYER_1_READY-00FF00?style=for-the-badge&logo=ghost&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/LEVEL-99-FFD700?style=for-the-badge&logo=gaming&logoColor=black" height="35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Level+99+Full+Stack+Engineer;B-Tech+Graduate+from+RMLAU;Cybersecurity+Specialist;Building+Seamless+Interfaces...;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Cybersecurity+Specialist;Building+Scalable+Systems...;Mission:+Innovation+Ready;" />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6amZ4NmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L180pGIU85UvGf05iX/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6amZ4NmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L180pGIU85UvGf05iX/giphy.gif" width="120">
 </p>
 
 <div align="center">
@@ -21,53 +22,49 @@
 
 ---
 
-### 🛡️ Player Profile
+### 🛡️ Player Attributes
 
-- **Class:** Full Stack Software Engineer 💻
-- **Origin:** DR. RMLAU Ayodhya (B-Tech CSE) 🎓
-- **Specialty:** Seamless Booking Systems & Billing Management ⚙️
-- **Known For:** Hotel Raj Palace, CK One Stop Solutions, Tipsytown Restaurant 🏢
+> [!IMPORTANT]
+> **CLASS:** Full-Stack Software Engineer  
+> **EXP:** B-Tech CSE (DR. RMLAU Ayodhya)  
+> **SPECIAL ABILITY:** Full-Stack Optimization & Billing Logic
 
 ---
 
 ### ⚔️ Tech Arsenal (Inventory)
 
-**Programming & WebDev Skills:**
+**Main Weapons (Development):**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,js,php,mysql,html,css,tailwind,react,bootstrap,nodejs,vite&theme=dark" />
 </p>
 
-**Design, Security & Tools:**
+**Utility Tools (Design & Ops):**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,canva,figma,git,github,vscode,wordpress,postman,firebase,netlify,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ps,canva,figma,git,github,vscode,wordpress,postman,firebase,vercel&theme=dark" />
 </p>
-
-**Other Expertises:**
-`Cybersecurity` `CorelDRAW` `Tally ERP` `PHPMyAdmin` `Swagger`
 
 ---
 
-### 🚀 Completed Missions (Projects)
+### 🚀 Quest Log (Completed Missions)
 
-| Quest Name | Technology Stack | Status |
+| Mission Name | Difficulty | Loot Drop (Live Link) |
 | :--- | :--- | :--- |
-| **Extrabite** | React, Tailwind, Node | [🏆 View Mission](https://extrabite.vercel.app/) |
-| **Sir Musiz** | Full-Stack | [🏆 View Mission](https://www.sirmusizstudios.com/) |
-| **Tipsy Town** | PHP, MySQL, Bootstrap | [🏆 View Mission](https://tipsytown.in/) |
+| **Extrabite** | 🔴 HARD | [🏆 Claim Reward](https://extrabite.vercel.app/) |
+| **Sir Musiz** | 🟡 MED | [🏆 Claim Reward](https://www.sirmusizstudios.com/) |
+| **Tipsy Town** | 🟡 MED | [🏆 Claim Reward](https://tipsytown.in/) |
 
 ---
 
-### 📈 Stats & Experience
+### 👾 Server Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhilesh10gupta&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Akhilesh10gupta&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhilesh10gupta&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Akhilesh_gupta60?theme=dark" width="450" />
+  <img src="https://raw.githubusercontent.com/Mayank-H/Mayank-H/master/assets/snake.svg" alt="Snake" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayank-H/Mayank-H/master/assets/snake.svg" alt="Snake Game" />
+  <i>"Don't just play the game, build it."</i>
 </p>
