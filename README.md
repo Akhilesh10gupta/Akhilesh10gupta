@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akhilesh10gupta&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/Akhilesh10gupta.svg?style=for-the-badge&label=Profile+Views&color=7c3aed" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -26,8 +26,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 **B.Tech CSE Graduate** from Dr. Ram Manohar Lohia Avadh University (RMLAU), Ayodhya.
-- 💼 Working as a **Freelance Full-Stack Developer** & Frontend Engineer with production experience in React, Next.js, and modern UI engineering.
-- 🚀 Previously delivered commercial solutions for **WaySorted**, **Weknow Technologies** (*Hotel Raj Palace, Tipsy Town*).
+- 💼 Working as a **Freelance Full-Stack Developer** & Frontend Engineer with hands-on production experience in React, Next.js, and modern UI engineering.
+- 🚀 Delivered high-impact web solutions for **WaySorted** and **Weknow Technologies** (*Hotel Raj Palace, Tipsy Town*).
 - 💡 Core focus: **Single Page Applications (SPA), Interactive UI/UX, Performance Optimization, and RESTful API Architecture**.
 
 ---
@@ -78,8 +78,8 @@
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **🎮 Avatar Play** | Next.js 14, TypeScript, Tailwind, Firebase, Cloudinary | Full-stack game distribution platform with interactive carousel, gamification engine (XP/Badges), autonomous Gemini AI blog & SEO schema. | [Live Demo](https://avatarplay.in) • [GitHub](https://github.com/Akhilesh10gupta/Avatar-store) |
-| **🍲 Extra Bite** | React.js, Tailwind CSS, Spring Boot, PostgreSQL, Vercel | Real-time food donation & redistribution platform featuring donor metrics, category filters, and scheduled pickup logistics. | [Live Demo](https://extrabite.vercel.app/) • [GitHub](https://github.com/Akhilesh10gupta/Extrabite.git) |
+| **🎮 Avatar Play** | Next.js 14, TypeScript, Tailwind, Firebase, Cloudinary | Full-stack game distribution platform with interactive hero carousel, gamification engine (XP/Badges), autonomous Gemini AI blog & dynamic SEO schema. | [Live Demo](https://avatarplay.in) • [GitHub](https://github.com/Akhilesh10gupta/Avatar-store) |
+| **🍲 Extra Bite** | React.js, Tailwind CSS, Spring Boot, PostgreSQL, Vercel | Real-time food donation & redistribution platform featuring distribution metrics, category filters, and scheduled pickup logistics. | [Live Demo](https://extrabite.vercel.app/) • [GitHub](https://github.com/Akhilesh10gupta/Extrabite.git) |
 | **🎵 Sir Musiz Studios** | Next.js, React, Tailwind CSS, Framer Motion | High-conversion showcase platform for a music production studio with dynamic album displays and fluid micro-interactions. | [Live Demo](https://www.sirmusizstudios.com/) • [GitHub](https://github.com/Akhilesh10gupta/musiz_v2.git) |
 | **🍽️ Tipsy Town** | JavaScript, PHP, MySQL, Bootstrap | Responsive restaurant web application featuring dynamic menu showcases and streamlined customer ordering UX. | [Live Demo](https://tipsytown.in/) • [GitHub](https://github.com/Akhilesh10gupta/Tipsytown.git) |
 
